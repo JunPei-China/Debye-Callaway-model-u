@@ -4,7 +4,23 @@
 
 本程序采用python3编写，具体用到的第三方库有numpy，pyyaml，scipy。如有问题，及时联系J.Pei(J.Pei@foxmail.com)。
 
+本程序源代码托管在github上面，如需要查看最新版本程序，请移步至: https://github.com/13skeleton/Debye-Callaway-model-u
+
 > **本人技术原因: periodic-table.yaml文件与exe文件一定要放在同一文件夹下。**
+
+# 程序下载方法
+
+**Windows:**
+
+1. 打开https://github.com/13skeleton/Debye-Callaway-model-u链接，点击"clone or download"按钮，将zip文件下载至本地
+
+2. 解压缩.zip文件，打开bin文件夹，双击运行".exe"文件。
+
+> bin文件夹下一定要记得准备好"xxx.dat"文件，不然会报错。也不要删除"periodic_table.yaml"，不然也会报错。
+
+**linux:**
+
+> 自己解决吧，不会的，联系我。
 
 # 程序准备条件
 
@@ -36,6 +52,8 @@
 > 将准备好的”**xxx.dat**“文件放置在exe程序统一文件夹下。
 
 5. 固溶体的化学表达式。
+
+
 
 # 程序原理公式
 
