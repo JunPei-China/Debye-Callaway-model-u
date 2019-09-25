@@ -1,0 +1,1630 @@
+H:
+    FullName: Hydrogen 
+    AtomicNumber: 1    
+    Symbol: H
+    RelativeAtomicMass: 1.00794
+    MeltingPoint: 
+        value: -259.14 
+        units: degC
+    BoilingPoint: 
+        value: -252.87
+        units:  degC
+    Density: 
+        value: 0.084E-3
+        units: g/cm^3
+    AtomicRadius:
+        value: 37.5
+        units: pm
+    PaulingElectronegativity: 2.20
+
+He: 
+    FullName: Helium    
+    AtomicNumber: 2    
+    Symbol: He
+    RelativeAtomicMass: 4.002602
+    MeltingPoint: 
+        value: -273 
+        units: degC
+    BoilingPoint: 
+        value: -268.93 
+        units: degC
+    Density: 
+        value: 0.17E-3 
+        units: g/cm^3
+    AtomicRadius:
+        value: 128
+        units: pm
+    PaulingElectronegativity: 0.0
+
+Li: 
+    FullName: Lithium    
+    AtomicNumber: 3    
+    Symbol: Li
+    RelativeAtomicMass: 6.941
+    MeltingPoint: 
+        value: 180.54 
+        units: degC
+    BoilingPoint: 
+        value: 1347 
+        units: degC
+    Density: 
+        value: 0.53
+        units: g/cm^3
+    AtomicRadius:
+        value: 152
+        units: pm
+    PaulingElectronegativity: 0.98
+
+Be: 
+    FullName: Beryllium    
+    AtomicNumber: 4    
+    Symbol: Be
+    RelativeAtomicMass: 9.0121182
+    MeltingPoint: 
+        value: 1278
+        units: degC
+    BoilingPoint: 
+        value: 2970 
+        units: degC
+    Density: 
+        value: 1.85
+        units: g/cm^3
+    AtomicRadius:
+        value: 111.3
+        units: pm
+    PaulingElectronegativity: 1.57
+
+B: 
+    FullName: Borum    
+    AtomicNumber: 5    
+    Symbol: B
+    RelativeAtomicMass: 10.811
+    MeltingPoint: 
+        value: 2079
+        units: degC
+    BoilingPoint: 
+        value: 2550 
+        units: degC
+    Density: 
+        value: 2.46
+        units: g/cm^3
+    AtomicRadius:
+        value: 79.5
+        units: pm
+    PaulingElectronegativity: 2.04
+
+C: 
+    FullName: Carbon    
+    AtomicNumber: 6    
+    Symbol: C
+    RelativeAtomicMass: 12.0107
+    MeltingPoint: 
+        value: 3550
+        units: degC
+    BoilingPoint: 
+        value: 4827 
+        units: degC
+    Density: 
+        value: 3.51
+        units: g/cm^3
+    AtomicRadius:
+        value: 77.2
+        units: pm
+    PaulingElectronegativity: 2.55
+
+N: 
+    FullName: Nitrogenium    
+    AtomicNumber: 7    
+    Symbol: N
+    RelativeAtomicMass: 14.0067
+    MeltingPoint: 
+        value: -209.86
+        units: degC
+    BoilingPoint: 
+        value: -195.8 
+        units: degC
+    Density: 
+        value: 1.17
+        units: g/L
+    AtomicRadius:
+        value: 71
+        units: pm
+    PaulingElectronegativity: 3.04
+
+O: 
+    FullName: Oxygenium    
+    AtomicNumber: 8    
+    Symbol: O
+    RelativeAtomicMass: 15.994 
+    MeltingPoint: 
+        value: -218.4
+        units: degC
+    BoilingPoint: 
+        value: -182.96 
+        units: degC
+    Density: 
+        value: 1.33
+        units: g/L
+    AtomicRadius:
+        value: 60.4
+        units: pm
+    PaulingElectronegativity: 3.44
+
+F: 
+    FullName: Fluorum    
+    AtomicNumber: 9    
+    Symbol: F
+    RelativeAtomicMass: 18.998404 
+    MeltingPoint: 
+        value: -219.62
+        units: degC
+    BoilingPoint: 
+        value:  -188.14
+        units: degC
+    Density: 
+        value: 1.58
+        units: g/l
+    AtomicRadius:
+        value: 70.9
+        units: pm
+    PaulingElectronegativity: 3.98
+
+Ne: 
+    FullName: Neon    
+    AtomicNumber: 10    
+    Symbol: Ne
+    RelativeAtomicMass: 20.1797
+    MeltingPoint: 
+        value: -248.67
+        units: degC
+    BoilingPoint: 
+        value: -246.05 
+        units: degC
+    Density: 
+        value: 0.84
+        units: g/l
+    AtomicRadius:
+        value: 0
+        units: pm
+    PaulingElectronegativity: 0
+
+Na: 
+    FullName: Sodium    
+    AtomicNumber: 11    
+    Symbol: Na
+    RelativeAtomicMass: 22.989769 
+    MeltingPoint: 
+        value: 97.81
+        units: degC
+    BoilingPoint: 
+        value: 882.9 
+        units: degC
+    Density: 
+        value: 0.97
+        units: g/cm^3
+    AtomicRadius:
+        value: 153.7
+        units: pm
+    PaulingElectronegativity: 0.93
+
+Mg: 
+    FullName: Magnesium    
+    AtomicNumber: 12    
+    Symbol: Mg
+    RelativeAtomicMass: 24.305 
+    MeltingPoint: 
+        value: 648.8
+        units: degC
+    BoilingPoint: 
+        value: 1090 
+        units: degC
+    Density: 
+        value: 1.74
+        units: g/cm^3
+    AtomicRadius:
+        value: 159.9
+        units: pm
+    PaulingElectronegativity: 1.31
+
+Al: 
+    FullName: Aluminum    
+    AtomicNumber: 13    
+    Symbol: Al
+    RelativeAtomicMass: 26.9811539
+    MeltingPoint: 
+        value: 660.37
+        units: degC
+    BoilingPoint: 
+        value: 2467 
+        units: degC
+    Density: 
+        value: 2.7
+        units: g/cm^3
+    AtomicRadius:
+        value: 143.2
+        units: pm
+    PaulingElectronegativity: 1.61
+
+Si: 
+    FullName: Silicon     
+    AtomicNumber: 14    
+    Symbol: Si
+    RelativeAtomicMass: 28.086 
+    MeltingPoint: 
+        value: 1410
+        units: degC
+    BoilingPoint: 
+        value: 2355 
+        units: degC
+    Density: 
+        value: 2.33
+        units: g/cm^3
+    AtomicRadius:
+        value: 117.6
+        units: pm
+    PaulingElectronegativity: 1.90
+
+P: 
+    FullName: Phosphorus    
+    AtomicNumber: 15
+    Symbol: P
+    RelativeAtomicMass: 30.974 
+    MeltingPoint: 
+        value: 44.1
+        units: degC
+    BoilingPoint: 
+        value: 280 
+        units: degC
+    Density: 
+        value: 1.82
+        units: g/cm^3
+    AtomicRadius:
+        value: 110.5
+        units: pm
+    PaulingElectronegativity: 2.19
+
+S: 
+    FullName: Sulfur    
+    AtomicNumber: 16    
+    Symbol: S
+    RelativeAtomicMass: 32.065 
+    MeltingPoint: 
+        value: 112.8
+        units: degC
+    BoilingPoint: 
+        value: 444.67 
+        units: degC
+    Density: 
+        value: 2.06
+        units: g/cm^3
+    AtomicRadius:
+        value: 103.5
+        units: pm
+    PaulingElectronegativity: 2.58
+
+Cl: 
+    FullName: Chlorine    
+    AtomicNumber: 17    
+    Symbol: Cl
+    RelativeAtomicMass: 35.453 
+    MeltingPoint: 
+        value: -100.98
+        units: degC
+    BoilingPoint: 
+        value: -34.6 
+        units: degC
+    Density: 
+        value: 2.55E-3
+        units: g/cm^3
+    AtomicRadius:
+        value: 99.4
+        units: pm
+    PaulingElectronegativity: 3.16
+
+Ar: 
+    FullName: Argon    
+    AtomicNumber: 18    
+    Symbol: Ar
+    RelativeAtomicMass: 39.948
+    MeltingPoint: 
+        value: -189.2
+        units: degC
+    BoilingPoint: 
+        value: -185.7 
+        units: degC
+    Density: 
+        value: 1.66
+        units: g/l
+    AtomicRadius:
+        value: 0.00
+        units: pm
+    PaulingElectronegativity: 174
+
+K: 
+    FullName: Potassium    
+    AtomicNumber: 19    
+    Symbol: K
+    RelativeAtomicMass: 39.0983 
+    MeltingPoint: 
+        value: 63.65
+        units: degC
+    BoilingPoint: 
+        value: 774 
+        units: degC
+    Density: 
+        value: 0.86
+        units: g/cm^3
+    AtomicRadius:
+        value: 227.2
+        units: pm
+    PaulingElectronegativity: 0.82
+
+Ca: 
+    FullName: Calcium    
+    AtomicNumber: 20    
+    Symbol: Ca
+    RelativeAtomicMass: 40.078 
+    MeltingPoint: 
+        value: 839
+        units: degC
+    BoilingPoint: 
+        value: 1484 
+        units: degC
+    Density: 
+        value: 1.54
+        units: g/cm^3
+    AtomicRadius:
+        value: 197.4
+        units: pm
+    PaulingElectronegativity: 1.00
+
+Sc: 
+    FullName: Scandium    
+    AtomicNumber: 21    
+    Symbol: Sc
+    RelativeAtomicMass: 44.956
+    MeltingPoint: 
+        value: 1541
+        units: degC
+    BoilingPoint: 
+        value: 2831 
+        units: degC
+    Density: 
+        value: 2.99
+        units: g/cm^3
+    AtomicRadius:
+        value: 162
+        units: pm
+    PaulingElectronegativity: 1.36
+
+Ti: 
+    FullName: Titanium    
+    AtomicNumber: 22    
+    Symbol: Ti
+    RelativeAtomicMass: 47.867 
+    MeltingPoint: 
+        value: 1660
+        units: degC
+    BoilingPoint: 
+        value: 3287 
+        units: degC
+    Density: 
+        value: 4.51
+        units: g/cm^3
+    AtomicRadius:
+        value: 144.8
+        units: pm
+    PaulingElectronegativity: 1.54
+
+V: 
+    FullName: Vanadium    
+    AtomicNumber: 23    
+    Symbol: V
+    RelativeAtomicMass: 50.9415 
+    MeltingPoint: 
+        value: 1890
+        units: degC
+    BoilingPoint: 
+        value: 3380 
+        units: degC
+    Density: 
+        value: 6.09
+        units: g/cm^3
+    AtomicRadius:
+        value: 134
+        units: pm
+    PaulingElectronegativity: 1.63
+
+Cr: 
+    FullName: Chromium    
+    AtomicNumber: 24    
+    Symbol: Cr
+    RelativeAtomicMass: 51.9961 
+    MeltingPoint: 
+        value: 1857
+        units: degC
+    BoilingPoint: 
+        value: 2672 
+        units: degC
+    Density: 
+        value: 7.14
+        units: g/cm^3
+    AtomicRadius:
+        value: 128
+        units: pm
+    PaulingElectronegativity: 1.66
+
+Mn: 
+    FullName: Manganese    
+    AtomicNumber: 25    
+    Symbol: Mn
+    RelativeAtomicMass: 54.938046
+    MeltingPoint: 
+        value: 1244
+        units: degC
+    BoilingPoint: 
+        value: 1962 
+        units: degC
+    Density: 
+        value: 7.44
+        units: g/cm^3
+    AtomicRadius:
+        value: 127
+        units: pm
+    PaulingElectronegativity: 1.55
+
+Fe: 
+    FullName: Iron    
+    AtomicNumber: 26    
+    Symbol: Fe
+    RelativeAtomicMass: 55.845 
+    MeltingPoint: 
+        value: 1535
+        units: degC
+    BoilingPoint: 
+        value: 2750 
+        units: degC
+    Density: 
+        value: 7.87
+        units: g/cm^3
+    AtomicRadius:
+        value: 126
+        units: pm
+    PaulingElectronegativity: 1.83
+
+Co: 
+    FullName: Cobalt    
+    AtomicNumber: 27  
+    Symbol: Co
+    RelativeAtomicMass: 58.933193
+    MeltingPoint: 
+        value: 1495
+        units: degC
+    BoilingPoint: 
+        value: 2870 
+        units: degC
+    Density: 
+        value: 8.89
+        units: g/cm^3
+    AtomicRadius:
+        value: 125.3
+        units: pm
+    PaulingElectronegativity: 1.88
+
+Ni: 
+    FullName: Nickel    
+    AtomicNumber: 28    
+    Symbol: Ni
+    RelativeAtomicMass: 58.6934
+    MeltingPoint: 
+        value: 1453
+        units: degC
+    BoilingPoint: 
+        value: 2732 
+        units: degC
+    Density: 
+        value: 8.91
+        units: g/cm^3
+    AtomicRadius:
+        value: 124.6
+        units: pm
+    PaulingElectronegativity: 1.91
+
+Cu: 
+    FullName: Copper    
+    AtomicNumber: 29    
+    Symbol: Cu
+    RelativeAtomicMass: 63.546
+    MeltingPoint: 
+        value: 1083
+        units: degC
+    BoilingPoint: 
+        value: 2567 
+        units: degC
+    Density: 
+        value: 8.92
+        units: g/cm^3
+    AtomicRadius:
+        value: 127.8
+        units: pm
+    PaulingElectronegativity: 1.90
+
+Zn: 
+    FullName: Zinc    
+    AtomicNumber: 30    
+    Symbol: Zn
+    RelativeAtomicMass: 65.409
+    MeltingPoint: 
+        value: 419.6
+        units: degC
+    BoilingPoint: 
+        value: 907 
+        units: degC
+    Density: 
+        value: 7.14
+        units: g/cm^3
+    AtomicRadius:
+        value: 134
+        units: pm
+    PaulingElectronegativity: 1.65
+
+Ga: 
+    FullName: Gallium    
+    AtomicNumber: 31    
+    Symbol: Ga
+    RelativeAtomicMass: 69.723
+    MeltingPoint: 
+        value: 29.78
+        units: degC
+    BoilingPoint: 
+        value: 2403 
+        units: degC
+    Density: 
+        value: 5.91
+        units: g/cm^3
+    AtomicRadius:
+        value: 122.1
+        units: pm
+    PaulingElectronegativity: 1.81
+
+Ge: 
+    FullName: Germanium    
+    AtomicNumber: 32    
+    Symbol: Ge
+    RelativeAtomicMass: 72.640 
+    MeltingPoint: 
+        value: 937.4
+        units: degC
+    BoilingPoint: 
+        value: 2830 
+        units: degC
+    Density: 
+        value: 5.32
+        units: g/cm^3
+    AtomicRadius:
+        value: 122.5
+        units: pm
+    PaulingElectronegativity: 2.01
+
+As: 
+    FullName: Arsenic    
+    AtomicNumber: 33    
+    Symbol: As
+    RelativeAtomicMass: 74.9216 
+    MeltingPoint: 
+        value: 615
+        units: degC
+    BoilingPoint: 
+        value: 615 
+        units: degC
+    Density: 
+        value: 5.72
+        units: g/cm^3
+    AtomicRadius:
+        value: 145
+        units: pm
+    PaulingElectronegativity: 2.18
+
+Se: 
+    FullName: Selenium  
+    AtomicNumber: 34 
+    Symbol: Se
+    RelativeAtomicMass: 78.960 
+    MeltingPoint: 
+        value: 217
+        units: degC
+    BoilingPoint: 
+        value: 684.9 
+        units: degC
+    Density: 
+        value: 4.82
+        units: g/cm^3
+    AtomicRadius:
+        value: 140
+        units: pm
+    PaulingElectronegativity: 2.55
+
+Br: 
+    FullName: Bromine    
+    AtomicNumber: 35    
+    Symbol: Br
+    RelativeAtomicMass: 79.904
+    MeltingPoint: 
+        value: -7.2
+        units: degC
+    BoilingPoint: 
+        value: 58.78 
+        units: degC
+    Density: 
+        value: 3.14
+        units: g/cm^3
+    AtomicRadius:
+        value: 114.5
+        units: pm
+    PaulingElectronegativity: 2.96
+
+Kr: 
+    FullName: Krypton  
+    AtomicNumber: 36    
+    Symbol: Kr
+    RelativeAtomicMass: 83.798
+    MeltingPoint: 
+        value: -156.6
+        units: degC
+    BoilingPoint: 
+        value: -152.3 
+        units: degC
+    Density: 
+        value: 3.48
+        units: g/l
+    PaulingElectronegativity: 0.0
+
+Rb: 
+    FullName: Rubidium    
+    AtomicNumber: 37    
+    Symbol: Rb
+    RelativeAtomicMass: 85.4678
+    MeltingPoint: 
+        value: 38.89
+        units: degC
+    BoilingPoint: 
+        value: 688 
+        units: degC
+    Density: 
+        value: 1.53
+        units: g/cm^3
+    AtomicRadius:
+        value: 247.5
+        units: pm
+    PaulingElectronegativity: 0.82
+
+Sr: 
+    FullName: Strontium    
+    AtomicNumber: 38    
+    Symbol: Sr
+    RelativeAtomicMass: 87.62 
+    MeltingPoint: 
+        value: 769
+        units: degC
+    BoilingPoint: 
+        value: 1384 
+        units: degC
+    Density: 
+        value: 2.63
+        units: g/cm^3
+    AtomicRadius:
+        value: 215.1
+        units: pm
+    PaulingElectronegativity: 0.95
+
+Y: 
+    FullName: Yttrium    
+    AtomicNumber: 39     
+    Symbol: Y
+    RelativeAtomicMass: 88.90585 
+    MeltingPoint: 
+        value: 1522
+        units: degC
+    BoilingPoint: 
+        value: 3338 
+        units: degC
+    Density: 
+        value: 4.47
+        units: g/cm^3
+    AtomicRadius:
+        value: 180
+        units: pm
+    PaulingElectronegativity: 1.22
+
+Zr: 
+    FullName: Zirconium    
+    AtomicNumber: 40    
+    Symbol: Zr
+    RelativeAtomicMass: 91.224
+    MeltingPoint: 
+        value: 1852
+        units: degC
+    BoilingPoint: 
+        value: 4377 
+        units: degC
+    Density: 
+        value: 6.51
+        units: g/cm^3
+    AtomicRadius:
+        value: 159
+        units: pm
+    PaulingElectronegativity: 1.33
+
+Nb: 
+    FullName: Niobium    
+    AtomicNumber: 41    
+    Symbol: Nb
+    RelativeAtomicMass: 92.90638
+    MeltingPoint: 
+        value: 2468
+        units: degC
+    BoilingPoint: 
+        value: 4742 
+        units: degC
+    Density: 
+        value: 8.58
+        units: g/cm^3
+    AtomicRadius:
+        value: 146
+        units: pm
+    PaulingElectronegativity: 1.60
+
+Mo: 
+    FullName: Molybdaenum    
+    AtomicNumber: 42    
+    Symbol: Mo
+    RelativeAtomicMass: 95.94
+    MeltingPoint: 
+        value: 2617
+        units: degC
+    BoilingPoint: 
+        value: 4612 
+        units: degC
+    Density: 
+        value: 10.28
+        units: g/cm^3
+    AtomicRadius:
+        value: 139
+        units: pm
+    PaulingElectronegativity: 2.16
+
+Tc: 
+    FullName: Technetium    
+    AtomicNumber: 43    
+    Symbol: Tc
+    RelativeAtomicMass: 97.90722
+    MeltingPoint: 
+        value: 2172
+        units: degC
+    BoilingPoint: 
+        value: 4877 
+        units: degC
+    Density: 
+        value: 11.49
+        units: g/cm^3
+    AtomicRadius:
+        value: 136
+        units: pm
+    PaulingElectronegativity: 2.10
+
+Ru: 
+    FullName: Ruthenium
+    AtomicNumber: 44    
+    Symbol: Ru
+    RelativeAtomicMass: 101.07
+    MeltingPoint: 
+        value: 2310
+        units: degC
+    BoilingPoint: 
+        value: 3900 
+        units: degC
+    Density: 
+        value: 12.45
+        units: g/cm^3
+    AtomicRadius:
+        value: 134
+        units: pm
+    PaulingElectronegativity: 2.20
+
+Rh: 
+    FullName: Rhodium    
+    AtomicNumber: 45    
+    Symbol: Rh
+    RelativeAtomicMass: 102.9055
+    MeltingPoint: 
+        value: 1966
+        units: degC
+    BoilingPoint: 
+        value: 3727 
+        units: degC
+    Density: 
+        value: 12.41
+        units: g/cm^3
+    AtomicRadius:
+        value: 134.5
+        units: pm
+    PaulingElectronegativity: 2.28
+
+Pd: 
+    FullName: Palladium    
+    AtomicNumber: 46    
+    Symbol: Pd
+    RelativeAtomicMass: 106.42
+    MeltingPoint: 
+        value: 1552
+        units: degC
+    BoilingPoint: 
+        value: 3140 
+        units: degC
+    Density: 
+        value: 12.02
+        units: g/cm^3
+    AtomicRadius:
+        value: 137.6
+        units: pm
+    PaulingElectronegativity: 2.20
+
+Ag: 
+    FullName: Argentum    
+    AtomicNumber: 47    
+    Symbol: Ag
+    RelativeAtomicMass: 107.8682
+    MeltingPoint: 
+        value: 961.9
+        units: degC
+    BoilingPoint: 
+        value: 2212 
+        units: degC
+    Density: 
+        value: 10.49
+        units: g/cm^3
+    AtomicRadius:
+        value: 144.5
+        units: pm
+    PaulingElectronegativity: 1.93
+
+Cd: 
+    FullName: Cadmium    
+    AtomicNumber: 48    
+    Symbol: Cd
+    RelativeAtomicMass: 112.411
+    MeltingPoint: 
+        value: 320.9
+        units: degC
+    BoilingPoint: 
+        value: 765 
+        units: degC
+    Density: 
+        value: 8.64
+        units: g/cm^3
+    AtomicRadius:
+        value: 151
+        units: pm
+    PaulingElectronegativity: 1.69
+
+In: 
+    FullName: Indium    
+    AtomicNumber: 49    
+    Symbol: In
+    RelativeAtomicMass: 114.818 
+    MeltingPoint: 
+        value: 156.2
+        units: degC
+    BoilingPoint: 
+        value: 2080 
+        units: degC
+    Density: 
+        value: 7.31
+        units: g/cm^3
+    AtomicRadius:
+        value: 140.5
+        units: pm
+    PaulingElectronegativity: 1.96
+
+Sn: 
+    FullName: Tin    
+    AtomicNumber: 50    
+    Symbol: Sn
+    RelativeAtomicMass: 118.71
+    MeltingPoint: 
+        value: 232
+        units: degC
+    BoilingPoint: 
+        value: 2270 
+        units: degC
+    Density: 
+        value: 7.29
+        units: g/cm^3
+    AtomicRadius:
+        value: 140.5
+        units: pm
+    PaulingElectronegativity: 1.96
+
+Sb: 
+    FullName: Antimony    
+    AtomicNumber: 51
+    Symbol: Sb
+    RelativeAtomicMass: 121.76
+    MeltingPoint: 
+        value: 630.7 
+        units: degC
+    BoilingPoint: 
+        value: 1750 
+        units: degC
+    Density: 
+        value: 6.69
+        units: g/cm^3
+    AtomicRadius:
+        value: 145
+        units: pm
+    PaulingElectronegativity: 2.05
+
+Te: 
+    FullName: Tellurium    
+    AtomicNumber: 52    
+    Symbol: Te
+    RelativeAtomicMass: 127.6
+    MeltingPoint: 
+        value: 449.5
+        units: degC
+    BoilingPoint: 
+        value: 990 
+        units: degC
+    Density: 
+        value: 6.25
+        units: g/cm^3
+    AtomicRadius:
+        value: 143.2
+        units: pm
+    PaulingElectronegativity: 2.10
+
+I: 
+    FullName: Iodine    
+    AtomicNumber: 53    
+    Symbol: I
+    RelativeAtomicMass: 126.90447
+    MeltingPoint: 
+        value: 113.5
+        units: degC
+    BoilingPoint: 
+        value: 11184.c 
+        units: degC
+    Density: 
+        value: 4.94
+        units: g/cm^3
+    AtomicRadius:
+        value: 133.3
+        units: pm
+    PaulingElectronegativity: 2.66
+
+Xe: 
+    FullName: Xenon    
+    AtomicNumber: 54    
+    Symbol: Xe
+    RelativeAtomicMass: 131.293
+    MeltingPoint: 
+        value: -111.9
+        units: degC
+    BoilingPoint: 
+        value: -107.1 
+        units: degC
+    Density: 
+        value: 4.49
+        units: g/l
+    AtomicRadius:
+        value: 218
+        units: pm
+    PaulingElectronegativity: 2.60
+
+Cs: 
+    FullName: Caesium    
+    AtomicNumber: 132.905    
+    Symbol: Cs
+    RelativeAtomicMass: 132.90546
+    MeltingPoint: 
+        value: 28.4
+        units: degC
+    BoilingPoint: 
+        value: 678.4 
+        units: degC
+    Density: 
+        value: 1.9
+        units: g/cm^3
+    AtomicRadius:
+        value: 265.5
+        units: pm
+    PaulingElectronegativity: 0.79
+
+Ba: 
+    FullName: Barium    
+    AtomicNumber: 56    
+    Symbol: Ba
+    RelativeAtomicMass: 137.327
+    MeltingPoint: 
+        value: 137.327
+        units: degC
+    BoilingPoint: 
+        value: 725 
+        units: degC
+    Density: 
+        value: 3.65
+        units: g/cm^3
+    AtomicRadius:
+        value: 217.4
+        units: pm
+    PaulingElectronegativity: 0.89
+
+La: 
+    FullName: Lanthanum    
+    AtomicNumber: 57
+    Symbol: La
+    RelativeAtomicMass: 138.90547
+    MeltingPoint: 
+        value: 921
+        units: degC
+    BoilingPoint: 
+        value: 3457 
+        units: degC
+    Density: 
+        value: 6.16
+        units: g/cm^3
+    AtomicRadius:
+        value: 187
+        units: pm
+    PaulingElectronegativity: 1.10
+
+Ce: 
+    FullName: Cerium    
+    AtomicNumber: 58    
+    Symbol: Ce
+    RelativeAtomicMass: 140.116
+    MeltingPoint: 
+        value: 799
+        units: degC
+    BoilingPoint: 
+        value: 3426 
+        units: degC
+    Density: 
+        value: 6.77
+        units: g/cm^3
+    AtomicRadius:
+        value: 182.5
+        units: pm
+    PaulingElectronegativity: 1.12
+
+Pr: 
+    FullName: Praseodymium
+    AtomicNumber: 59    
+    Symbol: Pr
+    RelativeAtomicMass: 140.90765
+    MeltingPoint: 
+        value: 931
+        units: degC
+    BoilingPoint: 
+        value: 3512 
+        units: degC
+    Density: 
+        value: 6.48
+        units: g/cm^3
+    AtomicRadius:
+        value: 182.4
+        units: pm
+    PaulingElectronegativity: 1.13
+
+Nd: 
+    FullName: Neodymium    
+    AtomicNumber: 60
+    Symbol: Nd
+    RelativeAtomicMass: 144.242
+    MeltingPoint: 
+        value: 1021
+        units: degC
+    BoilingPoint: 
+        value: 3068 
+        units: degC
+    Density: 
+        value: 7
+        units: g/cm^3
+    AtomicRadius:
+        value: 181.4
+        units: pm
+    PaulingElectronegativity: 1.14
+
+Pm: 
+    FullName: Promethium    
+    AtomicNumber: 61    
+    Symbol: Pm
+    RelativeAtomicMass: 144.91275
+    MeltingPoint: 
+        value: 1168
+        units: degC
+    BoilingPoint: 
+        value: 2460 
+        units: degC
+    Density: 
+        value: 7.22
+        units: g/cm^3
+    AtomicRadius:
+        value: 183.4
+        units: pm
+    PaulingElectronegativity: 0.00
+
+Sm: 
+    FullName: Samarium    
+    AtomicNumber: 62
+    Symbol: Sm
+    RelativeAtomicMass: 150.36
+    MeltingPoint: 
+        value: 1077
+        units: degC
+    BoilingPoint: 
+        value: 1791 
+        units: degC
+    Density: 
+        value: 7.54
+        units: g/cm^3
+    AtomicRadius:
+        value: 180.4
+        units: pm
+    PaulingElectronegativity: 1.17
+
+Eu: 
+    FullName: Europium
+    AtomicNumber: 63
+    Symbol: Eu
+    RelativeAtomicMass: 151.964 
+    MeltingPoint: 
+        value: 822
+        units: degC
+    BoilingPoint: 
+        value: 1597 
+        units: degC
+    Density: 
+        value: 5.25
+        units: g/cm^3
+    AtomicRadius:
+        value: 185
+        units: pm
+    PaulingElectronegativity: 0.0
+
+Gd: 
+    FullName: Gadolinium    
+    AtomicNumber: 64
+    Symbol: Gd
+    RelativeAtomicMass: 157.25 
+    MeltingPoint: 
+        value: 1313
+        units: degC
+    BoilingPoint: 
+        value: 3266 
+        units: degC
+    Density: 
+        value: 7.89
+        units: g/cm^3
+    AtomicRadius:
+        value: 180.4
+        units: pm
+    PaulingElectronegativity: 1.20
+
+Tb: 
+    FullName: Terbium
+    AtomicNumber: 158.925  
+    Symbol: Tb
+    RelativeAtomicMass: 158.92535
+    MeltingPoint: 
+        value: 1356
+        units: degC
+    BoilingPoint: 
+        value: 3123 
+        units: degC
+    Density: 
+        value: 8.25
+        units: g/cm^3
+    AtomicRadius:
+        value: 177.3
+        units: pm
+    PaulingElectronegativity: 0.0
+
+Dy: 
+    FullName: Dysprosium
+    AtomicNumber: 66
+    Symbol: Dy
+    RelativeAtomicMass: 162.5 
+    MeltingPoint: 
+        value: 1412
+        units: degC
+    BoilingPoint: 
+        value: 2562
+        units: degC
+    Density: 
+        value: 8.56
+        units: g/cm^3
+    AtomicRadius:
+        value: 178.1
+        units: pm
+    PaulingElectronegativity: 1.22
+
+Ho: 
+    FullName: Holmium    
+    AtomicNumber: 67    
+    Symbol: Ho
+    RelativeAtomicMass: 164.93031 
+    MeltingPoint: 
+        value: 1474
+        units: degC
+    BoilingPoint: 
+        value: 2695 
+        units: degC
+    Density: 
+        value: 8.78
+        units: g/cm^3
+    AtomicRadius:
+        value: 176.2
+        units: pm
+    PaulingElectronegativity: 1.23
+
+Er: 
+    FullName: Erbium    
+    AtomicNumber: 68    
+    Symbol: Er
+    RelativeAtomicMass: 167.259 
+    MeltingPoint: 
+        value: 1497
+        units: degC
+    BoilingPoint: 
+        value: 2900 
+        units: degC
+    Density: 
+        value: 9.05
+        units: g/cm^3
+    AtomicRadius:
+        value: 176.1
+        units: pm
+    PaulingElectronegativity: 1.24
+
+Tm: 
+    FullName: Thulium    
+    AtomicNumber: 69    
+    Symbol: Tm
+    RelativeAtomicMass: 168.9342 
+    MeltingPoint: 
+        value: 1545
+        units: degC
+    BoilingPoint: 
+        value: 1947 
+        units: degC
+    Density: 
+        value: 9.32
+        units: g/cm^3
+    AtomicRadius:
+        value: 175.9
+        units: pm
+    PaulingElectronegativity: 1.25
+
+Yb: 
+    FullName: Ytterbium
+    AtomicNumber: 70   
+    Symbol: Yb
+    RelativeAtomicMass: 173.04 
+    MeltingPoint: 
+        value: 819
+        units: degC
+    BoilingPoint: 
+        value: 1194 
+        units: degC
+    Density: 
+        value: 6.97
+        units: g/cm^3
+    AtomicRadius:
+        value: 193.3
+        units: pm
+    PaulingElectronegativity: 0.00
+
+Lu: 
+    FullName: Lutetium    
+    AtomicNumber: 71     
+    Symbol: Lu
+    RelativeAtomicMass: 174.967
+    MeltingPoint: 
+        value: 1663
+        units: degC
+    BoilingPoint: 
+        value: 3395
+        units: degC
+    Density: 
+        value: 9.84
+        units: g/cm^3
+    AtomicRadius:
+        value: 193.3
+        units: pm
+    PaulingElectronegativity: 1.00
+
+Hf: 
+    FullName: Hafnium    
+    AtomicNumber: 72    
+    Symbol: Hf
+    RelativeAtomicMass: 178.49 
+    MeltingPoint: 
+        value: 2227
+        units: degC
+    BoilingPoint: 
+        value: 4602 
+        units: degC
+    Density: 
+        value: 13.31
+        units: g/cm^3
+    AtomicRadius:
+        value: 156.4
+        units: pm
+    PaulingElectronegativity: 1.30
+
+Ta: 
+    FullName: Tantalum     
+    AtomicNumber: 73    
+    Symbol: Ta
+    RelativeAtomicMass: 180.94788 
+    MeltingPoint: 
+        value: 2996
+        units: degC
+    BoilingPoint: 
+        value: 5425 
+        units: degC
+    Density: 
+        value: 16.68
+        units: g/cm^3
+    AtomicRadius:
+        value: 146
+        units: pm
+    PaulingElectronegativity: 1.50
+
+W: 
+    FullName: Wolframium    
+    AtomicNumber: 74    
+    Symbol: W
+    RelativeAtomicMass: 183.84
+    MeltingPoint: 
+        value: 3410
+        units: degC
+    BoilingPoint: 
+        value: 5660 
+        units: degC
+    Density: 
+        value: 19.26
+        units: g/cm^3
+    AtomicRadius:
+        value: 139
+        units: pm
+    PaulingElectronegativity: 1.70
+
+Re: 
+    FullName: Rhenium    
+    AtomicNumber: 75    
+    Symbol: Re
+    RelativeAtomicMass: 186.207 
+    MeltingPoint: 
+        value: 3180
+        units: degC
+    BoilingPoint: 
+        value: 5627 
+        units: degC
+    Density: 
+        value: 21.03
+        units: g/cm^3
+    AtomicRadius:
+        value: 137.2
+        units: pm
+    PaulingElectronegativity: 1.90
+
+Os: 
+    FullName: Osmium    
+    AtomicNumber: 76    
+    Symbol: Os
+    RelativeAtomicMass: 190.23
+    MeltingPoint: 
+        value: 3045
+        units: degC
+    BoilingPoint: 
+        value: 5027 
+        units: degC
+    Density: 
+        value: 22.61
+        units: g/cm^3
+    AtomicRadius:
+        value: 135
+        units: pm
+    PaulingElectronegativity: 2.20
+
+Ir: 
+    FullName: Iridium    
+    AtomicNumber: 77    
+    Symbol: Ir
+    RelativeAtomicMass: 192.217
+    MeltingPoint: 
+        value: 2410
+        units: degC
+    BoilingPoint: 
+        value: 4130 
+        units: degC
+    Density: 
+        value: 22.65
+        units: g/cm^3
+    AtomicRadius:
+        value: 135.7
+        units: pm
+    PaulingElectronegativity: 2.20
+
+Pt: 
+    FullName: Platinum    
+    AtomicNumber: 78    
+    Symbol: Pt
+    RelativeAtomicMass: 195.078 
+    MeltingPoint: 
+        value: 1772
+        units: degC
+    BoilingPoint: 
+        value: 3827 
+        units: degC
+    Density: 
+        value: 21.45
+        units: g/cm^3
+    AtomicRadius:
+        value: 138.5
+        units: pm
+    PaulingElectronegativity: 2.20
+
+Au: 
+    FullName: Gold    
+    AtomicNumber: 79    
+    Symbol: Au
+    RelativeAtomicMass: 196.96657 
+    MeltingPoint: 
+        value: 1064
+        units: degC
+    BoilingPoint: 
+        value: 2807 
+        units: degC
+    Density: 
+        value: 19.32
+        units: g/cm^3
+    AtomicRadius:
+        value: 144.2
+        units: pm
+    PaulingElectronegativity: 2.40
+
+Hg: 
+    FullName: Mercury    
+    AtomicNumber: 80    
+    Symbol: Hg
+    RelativeAtomicMass: 200.59
+    MeltingPoint: 
+        value: -38.84
+        units: degC
+    BoilingPoint: 
+        value: 356.6 
+        units: degC
+    Density: 
+        value: 13.55
+        units: g/cm^3
+    AtomicRadius:
+        value: 151
+        units: pm
+    PaulingElectronegativity: 1.90
+
+Tl: 
+    FullName: Thallium    
+    AtomicNumber: 81    
+    Symbol: Tl
+    RelativeAtomicMass: 204.3833 
+    MeltingPoint: 
+        value: 303.5
+        units: degC
+    BoilingPoint: 
+        value: 1457 
+        units: degC
+    Density: 
+        value: 11.85
+        units: g/cm^3
+    AtomicRadius:
+        value: 170
+        units: pm
+    PaulingElectronegativity: 1.80
+
+Pb: 
+    FullName: Lead    
+    AtomicNumber: 82    
+    Symbol: Pb
+    RelativeAtomicMass: 207.2
+    MeltingPoint: 
+        value: 327.5
+        units: degC
+    BoilingPoint: 
+        value: 1740 
+        units: degC
+    Density: 
+        value: 11.34
+        units: g/cm^3
+    AtomicRadius:
+        value: 175
+        units: pm
+    PaulingElectronegativity: 1.80
+
+Bi: 
+    FullName: Bismuth    
+    AtomicNumber: 83    
+    Symbol: Bi
+    RelativeAtomicMass: 208.9804
+    MeltingPoint: 
+        value: 271.3
+        units: degC
+    BoilingPoint: 
+        value: 1560 
+        units: degC
+    Density: 
+        value: 9.8
+        units: g/cm^3
+    AtomicRadius:
+        value: 154.5
+        units: pm
+    PaulingElectronegativity: 1.90
+
+Po: 
+    FullName: Polonium    
+    AtomicNumber: 84    
+    Symbol: Po
+    RelativeAtomicMass: 208.98242 
+    MeltingPoint: 
+        value: 254
+        units: degC
+    BoilingPoint: 
+        value: 962 
+        units: degC
+    Density: 
+        value: 9.8
+        units: g/cm^3
+    AtomicRadius:
+        value: 164
+        units: pm
+    PaulingElectronegativity: 2.00
+
+At: 
+    FullName: Astatine
+    AtomicNumber: 85    
+    Symbol: At
+    RelativeAtomicMass: 209.98714
+    MeltingPoint: 
+        value: 302
+        units: degC
+    BoilingPoint: 
+        value: 337 
+        units: degC
+    Density: 
+        value: 0
+        units: g/cm^3
+    AtomicRadius:
+        value: 145
+        units: pm
+    PaulingElectronegativity: 2.20
+
+Rn: 
+    FullName: Radon    
+    AtomicNumber: 86    
+    Symbol: Rn
+    RelativeAtomicMass: 222.01758 
+    MeltingPoint: 
+        value: -71
+        units: degC
+    BoilingPoint: 
+        value: -61.8 
+        units: degC
+    Density: 
+        value: 9.23
+        units: g/l
+    AtomicRadius:
+        value: 0
+        units: pm
+    PaulingElectronegativity: 0

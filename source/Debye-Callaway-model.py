@@ -32,10 +32,10 @@ def measure_data():
     AllFiles = os.listdir(CurrentPath)
     DataFile = []
     FileNum = 0
-    for file in AllFiles:
-        if os.path.splitext(file)[-1] == ".dat":
+    for f in AllFiles:
+        if os.path.splitext(f)[-1] == ".dat":
             FileNum += 1
-            print(file)
+            print(f)
     if FileNum == 0:
         print("请准备基体晶格热导率与温度的数据文件。格式:xxx.dat")
         try:
@@ -45,13 +45,14 @@ def measure_data():
         finally:
             print("clean up.")
     print("请选择基体晶格热导率与温度的数据文件。格式:xxx.dat")
-    MeasuredFile = os.path.join(CurrentPath,str(input(prompt)))
-       
-    LatticeThermalconductivity = np.loadtxt(MeasuredFile)
 
+    MeasuredFile = os.path.join(CurrentPath,str(input(prompt)))
+   
+    LatticeThermalconductivity = np.loadtxt(MeasuredFile)
 
     # 数据规范化
     Measure = [LogitudinalSoundVelocity,TransverseSoundVelocity,Density,NumberAtoms,VolumeCell,AverageAtomicVolume,LatticeThermalconductivity]
+        
     return Measure
 
 def intrinsic_data():
@@ -352,5 +353,4 @@ def test():
                             
 if __name__ == "__main__":
     test()
-    
 
