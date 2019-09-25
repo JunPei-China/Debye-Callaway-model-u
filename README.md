@@ -1,6 +1,6 @@
 # Debye-Callaway-model-u
 
-# 程序简介
+## 程序简介
 
 本程序采用python3编写，具体用到的第三方库有numpy，pyyaml，scipy。如有问题，及时联系J.Pei(J.Pei@foxmail.com)。
 
@@ -8,7 +8,7 @@
 
 > **本人技术原因: periodic-table.yaml文件与exe文件一定要放在同一文件夹下。**
 
-# 程序下载方法
+## 程序下载方法
 
 **Windows:**
 
@@ -22,7 +22,7 @@
 
 > 自己解决吧，不会的，联系我。
 
-# 程序准备条件
+## 程序准备条件
 
 运行程序前需要明确以下信息:
 
